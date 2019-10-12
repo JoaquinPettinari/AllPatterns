@@ -1,3 +1,4 @@
+package Decorator;
 /*package Decorator;
 
 import org.testng.Assert;
