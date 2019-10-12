@@ -1,4 +1,4 @@
-package Decorator;
+/*package Decorator;
 
 import org.testng.Assert;
 import org.testng.annotations.BeforeTest;
@@ -35,4 +35,4 @@ public class zHamburguesaLentejasTest {
         lenteja.agregarMedallon();
         Assert.assertEquals(370, lenteja.getPrecio());
     }
-}
+}*/
